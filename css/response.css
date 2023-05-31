@@ -1,0 +1,190 @@
+@media(max-width:576px){
+.row{
+	width:100%;
+	display:flex;
+	flex-wrap:wrap;
+}
+.colsd-1{
+	width:8.33%;
+	padding:0 15px;
+}
+.colsd-2
+{
+	width:16.66%;
+	padding:0 15px;
+}
+.colsd-3
+{
+	width:25%;
+	padding:0 15px;
+}
+.colsd-4
+{
+	width:33.33%;
+	padding:0 15px;
+}
+.colsd-5
+{
+	width:41.66%;
+	padding:0 15px;
+}
+.colsd-6
+{
+	width:50%;
+	padding:0 15px;
+}
+.colsd-7
+{
+	width:58.33%;
+	padding:0 15px;
+}
+.colsd-8
+{
+	width:66.66%;
+	padding:0 15px;
+}
+.colsd-9
+{
+	width:75%;
+	padding:0 15px;
+}
+.colsd-10
+{
+	width:83.33%;
+	padding:0 15px;
+}
+.colsd-11
+{
+	width:91.66%;
+	padding:0 15px;
+}
+.colsd-12
+{
+	width:100%;
+	padding:0 15px;
+}
+
+	.mentor h1 a{
+		color:red;
+	}
+	ul{
+		display:none;
+	}
+	.colsd-61{
+		width:100%;
+		order:1;
+		padding:10px;
+	}
+	.colsd-62{
+		width:100%;
+		order:2;
+		padding:10px;
+	}
+	.colsd-6{
+		width:50%;
+	}
+	.colsd-12{
+		padding:10px;
+	}
+	.footer-flex{
+		display:block;
+	  padding:20px;
+	}
+	.rossd-2{
+		display:block;
+		text-align:center;
+	}
+}
+
+@media(min-width:576px) and (max-width:999px){
+	.row{
+	width:100%;
+	display:flex;
+	flex-wrap:wrap;
+}
+.colmd-1{
+	width:8.33%;
+	padding:0 15px;
+}
+.colmd-2
+{
+	width:16.66%;
+	padding:0 15px;
+}
+.colsmd-3
+{
+	width:25%;
+	padding:0 15px;
+}
+.colmd-4
+{
+	width:33.33%;
+	padding:0 15px;
+}
+.colmd-5
+{
+	width:41.66%;
+	padding:0 15px;
+}
+.colmd-6
+{
+	width:50%;
+	padding:0 15px;
+}
+.colmd-7
+{
+	width:58.33%;
+	padding:0 15px;
+}
+.colmd-8
+{
+	width:66.66%;
+	padding:0 15px;
+}
+.colmd-9
+{
+	width:75%;
+	padding:0 15px;
+}
+.colmd-10
+{
+	width:83.33%;
+	padding:0 15px;
+}
+.colmd-11
+{
+	width:91.66%;
+	padding:0 15px;
+}
+.colmd-12
+{
+	width:100%;
+	padding:0 15px;
+}
+.mentor h1{
+	color:blue;
+}
+ .navbar ul{
+	  display:none;
+  }
+  .colmd-12 img{
+	  order:1;
+  }
+  .back-2{
+	  padding:10px;
+  }
+  .footer-flex{
+	  display:block;
+	  padding:20px;
+	  text-align:center;
+  }
+  .colmd-12{
+	  padding:7px 15px;
+	  text-align:center;
+  }
+  .rosmd-2{
+	  align-items:center;
+	  text-align:center;
+	  /* display:flex; */
+  }
+}
