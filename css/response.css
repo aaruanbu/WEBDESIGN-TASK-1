@@ -173,9 +173,12 @@
 .mentor h1{
 	color:blue;
 }
- .navbar ul{
-	  display:none;
-  }
+	.a{
+		display:none;
+	}
+	.btn{
+		padding:5px 7px;
+	}
   .colmd-12 img{
 	  order:1;
   }
