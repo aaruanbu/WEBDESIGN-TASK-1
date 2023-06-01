@@ -190,10 +190,11 @@
   .colmd-12{
 	  padding:7px 15px;
   }
-	.colmsec-6-12{
-		text-align:center;
-		padding:12px 0px;
-	}
+	.colmdsec-6-12{
+	  text-align:center !important;
+	  padding:12px 0px !important;
+	  width:47%;
+  }
   .rosmd-2{
 	  align-items:center;
 	  text-align:center;
