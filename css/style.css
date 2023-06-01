@@ -126,6 +126,62 @@ ul a:hover{
 	background-position:top;
      background-size:cover;	
 }
+
+.drop-parent{
+	position:relative;
+}
+.drop-parent:hover .drop-child{
+	transition:all 0.5s ease;
+	visibility:visible;
+    transform:scaley(1);
+}
+.drop-child a{
+	color:black;
+}
+.drop-child{
+	width:150px;
+	text-align:center;
+	padding-bottom:10px;
+	box-shadow:0 0 3px black;
+	background-color:white;
+	transition:all 0.5s;
+	translate:15px;
+	position:absolute;
+	left:0;
+	top:60px;
+	visibility:hidden;
+}
+     /* drop-2 */
+	 .drop-parent-1{
+	position:relative;
+}
+.drop-parent-1:hover .drop-child-1{
+	transition:all 0.5s;
+	visibility:visible;
+	translate:10px;
+	/* height:50px; */
+    transform:scalex(1);
+}
+.drop-child-1 a{
+	color:black;
+}
+.drop-child-1{
+	width:150px;
+	padding:10px;
+	/* padding-left:30px; */
+	/* color:white; */
+	text-align:center;
+	line-height:20px;
+	box-shadow:0 0 5px black;
+	background-color:white;
+	transition:all 0.5s;
+	translate:100px;
+	position:absolute;
+	left:135px;
+	top:0;
+	visibility:hidden;
+}
+
 .content h1{
 	color:white;
 	font-size:60px;
