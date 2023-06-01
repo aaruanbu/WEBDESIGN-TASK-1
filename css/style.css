@@ -71,6 +71,14 @@
 	width:100%;
 	padding:0 15px;
 }
+
+
+p{
+			font-family: 'Raleway', sans-serif;
+		}
+	h1,h5{
+		font-family: 'Raleway', sans-serif;
+	}
 section{
 	padding-top:30px;
 }
