@@ -199,4 +199,8 @@
 	  text-align:center;
 	  /* display:flex; */
   }
+	.first-child input{
+	padding:2px;
+	width:86%;
+	}
 }
