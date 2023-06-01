@@ -409,8 +409,11 @@ img{
 	color:#5fcf80;
 }
 .parent{
-
     position: relative;
+}
+first-child input{
+	padding:2px;
+	width:83%;
 }
 .first-child{
     padding: 7px 15px;
