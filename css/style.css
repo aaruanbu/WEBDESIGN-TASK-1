@@ -264,12 +264,12 @@ img{
 	padding-bottom:20px;
 	padding-top:20px;
 }
-.ico ,i{
+.ico i{
 	color:black;
 	padding-right:5px;
 	font-size:25px;
 }
-.hove ,span{
+.hove span{
 	font-size:25px;
 }
 .hove:hover{
