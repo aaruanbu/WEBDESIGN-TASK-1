@@ -80,6 +80,7 @@
 	}
 	.colsd-6{
 		width:50%;
+		text-align:center;
 	}
 	.colsd-12{
 		padding:10px;
@@ -205,7 +206,7 @@
 	padding:2px;
 	width:86%;
 	}
-	colmd-6{
+	.colmd-6{
 		text-align:center;
 	  margin-bottom:20px;
   }
