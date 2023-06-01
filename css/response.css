@@ -79,8 +79,10 @@
 		padding:10px;
 	}
 	.colsd-6{
-		width:50%;
 		text-align:center;
+	}
+	.colsd-6{
+		width:50%;
 	}
 	.colsd-12{
 		padding:10px;
