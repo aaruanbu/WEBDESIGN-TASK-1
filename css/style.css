@@ -425,6 +425,12 @@ img{
    max-width:60px;
    border-radius:50%;
 }
+.fa-heart:hover{
+	color:red;
+}
+.fa-user:hover{
+	color:violet;
+}
 .borde{
 	margin:10px;
 	width:30.33%;
