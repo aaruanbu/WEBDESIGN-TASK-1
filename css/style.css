@@ -408,17 +408,16 @@ img{
 .arrow i,a:hover{
 	color:#5fcf80;
 }
-.footer-form{
-    padding-top: 30px;
+.parent{
+
     position: relative;
 }
-.footer-form input{
-    padding: 10px 15px;
+.first-child{
+    padding: 7px 15px;
     border-radius: 20px;
-    width: 90%;
     border: 1px solid gray;
 }
-.footer-form a{
+.first-child a{
     padding: 9px 15px;
     background-color: #5fcf80;
     border-radius: 20px;
