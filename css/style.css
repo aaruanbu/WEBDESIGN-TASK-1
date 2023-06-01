@@ -416,7 +416,7 @@ img{
 .footer-form input{
     padding: 10px 15px;
     border-radius: 20px;
-    width: 80%;
+    width: 90%;
     border: 1px solid gray;
 }
 .footer-form a{
@@ -429,8 +429,8 @@ img{
     bottom: 0px;
     right: 0px;
 }
-.subscr a:hover{
-	color:black;
+.subscr:hover{
+	color:green;
 } 
 /* footer */
 #foot{
