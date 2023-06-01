@@ -94,6 +94,15 @@
 		display:block;
 		text-align:center;
 	}
+	.a{
+		display:none;
+	}
+	.btn{
+		padding:5px 7px;
+	}
+	.first-child input{
+		width:63%;
+	}
 }
 
 @media(min-width:576px) and (max-width:999px){
@@ -181,6 +190,10 @@
   .colmd-12{
 	  padding:7px 15px;
   }
+	.colmsec-6-12{
+		text-align:center;
+		padding:12px 0px;
+	}
   .rosmd-2{
 	  align-items:center;
 	  text-align:center;
